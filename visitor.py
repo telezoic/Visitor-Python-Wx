@@ -97,7 +97,7 @@ class MyForm(wx.Frame):
         # Create and show the Open FileDialog
         
         dlg = wx.FileDialog(
-            self, message="Choose a .csv file of images",
+            self, message="Choose a .csv file of URLs",
             defaultDir=os.getcwd(), 
             wildcard="*.csv",
             style=wx.OPEN | wx.MULTIPLE | wx.CHANGE_DIR
