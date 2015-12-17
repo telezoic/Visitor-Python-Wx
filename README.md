@@ -20,7 +20,7 @@ Firefox is the default broswer for webdriverplus, if you want to use something e
 
 1: Start it up from the terminal:     `python visitor.py`
 
-2: Follow the buttons in order: Select ths .csv of URLs that you have already prepped (no headers), specify the type of loop, set the length of delay, press start.
+2: Follow the buttons in order: Select the .csv of URLs that you have already prepped (no headers), specify the type of loop, set the length of delay, press start.
 
 3: Have a glass of wine, a piece of cheese, and enjoy the show. 
 
