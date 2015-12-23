@@ -16,6 +16,8 @@ Load a .csv file of URLs, set the type of loop, set the length of time for each 
 
 Firefox is the default broswer for webdriverplus, if you want to use something else see the<a href="https://webdriver-plus.readthedocs.org/en/latest/browsers.html"> webdriverplus docs</a>
 
+Webdriver plus requires an up to date version of <a href="http://www.seleniumhq.org/"> selenium </a> to function. Do it this way: `pip install -U selenium` . . . if you please.
+
 ###Usage
 
 1: Start it up from the terminal:     `python visitor.py`
@@ -32,7 +34,9 @@ Firefox is the default broswer for webdriverplus, if you want to use something e
 
 1: Bundle as an executable
 
-2: Get it working with the library's digital signage
+2: Make the "Stop" button more responsive [thread it . . . ]
+
+3: Get it working with the library's digital signage
 
 
 
